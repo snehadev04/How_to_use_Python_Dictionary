@@ -32,5 +32,3 @@ python grades.py
 Author
 Sneha D
 
-License
-This project is licensed under the MIT License.
