@@ -1,5 +1,5 @@
 # How_to_use_Python_Dictionary
- Dictionaries are used to store data values in key:value pairs.
+ Dictionaries are used to store data values in key: value pairs.
  
 # Python Dictionary Grades
 This Python script demonstrates how to use dictionaries to assign grades to students based on their scores. Each student's score is evaluated and assigned a grade according to predefined criteria.
